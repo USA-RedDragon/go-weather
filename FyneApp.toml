@@ -1,0 +1,8 @@
+Website = "https://example.com"
+
+[Details]
+Icon = "icon.png"
+Name = "Radar"
+ID = "dev.mcswain.radar"
+Version = "1.0.0"
+Build = 1
