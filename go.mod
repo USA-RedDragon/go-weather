@@ -3,7 +3,7 @@ module github.com/USA-RedDragon/radar-app
 go 1.23.5
 
 require (
-	fyne.io/fyne/v2 v2.5.3
+	fyne.io/fyne/v2 v2.5.4
 	fyne.io/x/fyne v0.0.0-20240421102438-d5a080914907
 )
 
