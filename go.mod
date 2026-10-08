@@ -1,6 +1,6 @@
 module github.com/USA-RedDragon/radar-app
 
-go 1.27.1
+go 1.27.2
 
 require (
 	fyne.io/fyne/v2 v2.8.1
